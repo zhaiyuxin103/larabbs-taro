@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "larabbs-taro",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
